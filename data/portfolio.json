@@ -42,7 +42,7 @@
         {
             "id": "3",
             "title": "Buy It",
-            "description": "Get Fit is a fitness app built with React and JavaScript. React components are used to allow for easy customization and updates. JavaScript gives the app complex functionalities, such as personalized workout recommendations. This app also uses HTML, CSS, and APIs to deliver an interactivre and dynamic experience for users.",
+            "description": "Buy It is built using JavaScript, React, Next.js, Sanity and Stripe to provide a powerful e-commerce platform that empowers businesses to create a stunning online store and offer their products and services to customers worldwide. Next.js provides several advantages, including server-side rendering for faster page loading and optimized performance. Sanity provides a flexible content management system that allows businesses to customize and manage their product information, descriptions, and images with ease. Finally, the integration of Stripe provides secure and seamless payment processing, ensuring a smooth and safe checkout process for customers. Stripe's flexible API allows for customizing the payment process to meet the unique needs of the business.",
             "imageSrc": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
             "url": "https://buy-it-david-razo.netlify.app"
         }
