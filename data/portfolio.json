@@ -38,6 +38,13 @@
             "description": "Get Fit is a fitness app built with React and JavaScript. React components are used to allow for easy customization and updates. JavaScript gives the app complex functionalities, such as personalized workout recommendations. This app also uses HTML, CSS, and APIs to deliver an interactivre and dynamic experience for users.",
             "imageSrc": "https://images.unsplash.com/photo-1576678927484-cc907957088c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
             "url": "https://get-fit-project.netlify.app"
+        },
+        {
+            "id": "3",
+            "title": "Buy It",
+            "description": "Get Fit is a fitness app built with React and JavaScript. React components are used to allow for easy customization and updates. JavaScript gives the app complex functionalities, such as personalized workout recommendations. This app also uses HTML, CSS, and APIs to deliver an interactivre and dynamic experience for users.",
+            "imageSrc": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "url": "https://buy-it-david-razo.netlify.app"
         }
     ],
     "aboutpara": "My name is David Razo, and I am a self-taught software developer. I have always had a passion for technology, and I love building things that people find useful and enjoyable. I started my journey in software development by teaching myself the basics of programming through online resources and tutorials. Over time, I gained more and more knowledge and experience, working on various projects to hone my skills. I am always looking for new challenges and opportunities to learn and grow as a developer.",
