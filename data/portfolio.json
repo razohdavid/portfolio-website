@@ -28,21 +28,21 @@
         {
             "id": "1",
             "title": "Watch Now",
-            "description": "Watch Now is a video sharing app built with React and JavaScript. The app's user interface is designed using React components, allowing for efficient and modular development. JavaScript is used extensively throughout the app to handle complex logic and data processing. This app also incorporates other technologies such as HTML, CSS, and APIs to deliver high-quality video and audio content to users.",
+            "description": "Watch Now is a video sharing app built with React.js and JavaScript. The app's user interface is designed using React components, allowing for efficient and modular development. JavaScript is used extensively throughout the app to handle complex logic and data processing. This app also incorporates other technologies such as HTML, CSS, and APIs to deliver high-quality video and audio content to users.",
             "imageSrc": "https://images.unsplash.com/photo-1642726197626-f03ef77f13cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80",
             "url": "http://watch-now-project.netlify.app"
         },
         {
             "id": "2",
             "title": "Get Fit",
-            "description": "Get Fit is a fitness app built with React and JavaScript. React components are used to allow for easy customization and updates. JavaScript gives the app complex functionalities, such as personalized workout recommendations. This app also uses HTML, CSS, and APIs to deliver an interactivre and dynamic experience for users.",
+            "description": "Get Fit is a fitness app built with React.js and JavaScript. React components are used to allow for easy customization and updates. JavaScript gives the app complex functionalities, such as personalized workout recommendations. This app also uses HTML, CSS, and APIs to deliver an interactivre and dynamic experience for users.",
             "imageSrc": "https://images.unsplash.com/photo-1576678927484-cc907957088c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
             "url": "https://get-fit-project.netlify.app"
         },
         {
             "id": "3",
             "title": "Buy It",
-            "description": "Buy It is built using JavaScript, React, Next.js, Sanity and Stripe to provide a powerful e-commerce platform that empowers businesses to create a stunning online store and offer their products and services to customers worldwide. Next.js provides several advantages, including server-side rendering for faster page loading and optimized performance. Sanity provides a flexible content management system that allows businesses to customize and manage their product information, descriptions, and images with ease. Finally, the integration of Stripe provides secure and seamless payment processing, ensuring a smooth and safe checkout process for customers. Stripe's flexible API allows for customizing the payment process to meet the unique needs of the business.",
+            "description": "Buy It is built using JavaScript, React.js, Next.js, Sanity and Stripe to provide a powerful e-commerce platform that empowers businesses to create a stunning online store and offer their products and services to customers worldwide. Next.js provides several advantages, including server-side rendering for faster page loading and optimized performance. Sanity provides a flexible content management system that allows businesses to customize and manage their product information, descriptions, and images with ease. Finally, the integration of Stripe provides secure and seamless payment processing, ensuring a smooth and safe checkout process for customers. Stripe's flexible API allows for customizing the payment process to meet the unique needs of the business.",
             "imageSrc": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
             "url": "https://buy-it-david-razo.netlify.app"
         }
@@ -57,14 +57,14 @@
                 "dates": "April 2019 - January 2022",
                 "type": "Full Time",
                 "position": "Private Client Banker/Manager on Duty at JPMorgan Chase",
-                "bullets": "Achieved role as Acting Manager whenever Manager needed support, Trained new employees and supported them throughout onboarding "
+                "bullets": "Directed and collabrated with my team in order to deliver tailored financial advice for new and existing clients, Developed strong relationships with high net worth clients through a deep understanding of their objectives and goals, Supported branch manager by leading the implemention of customer service and product knowledge training for staff"
             },
             {
                 "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
                 "dates": "January 2019 - March 2019",
                 "type": "Full Time",
                 "position": "Relationship Banker at JPMorgan Chase",
-                "bullets": "Led a team assembled from different departments in order to meet clients' financial needs, Quickly adapted to new technology in systems throughout my career"
+                "bullets": "Grew and maintained a rapport with clients while providing guidance related to wealth management strategies, Learning new financial tools and technologies was a constant priority throughout my career"
             }
         ],
         "education": {
@@ -74,13 +74,15 @@
         },
         "languages": [
             "Javascript",
-            "React",
+            "React.js",
             "Next.js",
             "TailwindCSS",
             "HTML",
             "CSS",
+            "Sanity",
             "RapidAPI",
-            "Material UI"
+            "Material UI",
+            "Stripe"
         ]
     }
 }
