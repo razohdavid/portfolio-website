@@ -67,11 +67,18 @@
                 "bullets": "Grew and maintained a rapport with clients while providing guidance related to wealth management strategies, Learning new financial tools and technologies was a constant priority throughout my career"
             }
         ],
-        "education": {
-            "universityName": "Moorpark Community College",
-            "universityDate": "August 2016 - May 2017",
-            "universityPara": "Business"
-        },
+        "education": [
+            {
+                "universityName": "Moorpark Community College",
+                "universityDate": "August 2016 - May 2017",
+                "universityPara": "Business"
+            },
+            {
+                "universityName": "San Francisco State University",
+                "universityDate": "August 2015 - May 2016",
+                "universityPara": "Business"
+            }
+        ],
         "languages": [
             "Javascript",
             "React.js",
